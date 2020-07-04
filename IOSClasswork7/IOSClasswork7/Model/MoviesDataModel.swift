@@ -32,8 +32,9 @@ class moviesModel {
 // املأ  المصففة  الموجودة  في ملف  MovieDataModel بكوائن من  أفلامك المفضلة
 //أو ازل الـComment عن المصفوقة التالية
 
-/*
 var MoviesData = [
+    moviesModel(name: "Tokyo Ghoul", release: 2014 , actors:["كن كانيكي","توكا كيريشيما","شو تسوكياما"], rating: 7.9, rated: "PG13"),
+    moviesModel(name: "Seraph of the end", release: 2015, actors: ["هياكويا يوتشيرو","هياكويا ميكايلا","اتشينوسي غورين"], rating: 7.5, rated: "PG13"),
     moviesModel(name: "Avengers Endgame", release: 2019, actors: ["Robert Downey", "Chris Evans", "Chris Hemsworth"], rating: 8.4, rated: "PG-13"),
     moviesModel(name: "Thor- Ragnarok", release: 2017, actors: ["Chris Hemsworth", "Tom Hiddleston", "Mark Ruffalo"], rating: 7.9, rated: "PG-13"),
     moviesModel(name: "Captain America", release: 2011, actors: ["Chris Evans", "Hayley Atwell", "Sebastian Stan"], rating: 6.9, rated: "PG-13"),
@@ -41,4 +42,4 @@ var MoviesData = [
     moviesModel(name: "Guardians of the Galaxy", release: 2014, actors: ["Chris Pratt","Vin Diesel","Zoe Saldana"], rating: 8.0, rated: "PG-13"),
     moviesModel(name: "Spider-Man", release: 2019, actors: ["Tom Holland", "Jake Gyllenhaal","Samuel L. Jackson"], rating: 7.5, rated: "PG-13")
 ]
-*/
+
